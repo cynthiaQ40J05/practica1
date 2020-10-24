@@ -1,0 +1,15 @@
+#!/bin/bash
+#practica 6
+
+#decodificamos image1
+cat /root/Descargas/mystery_img1.txt | base64 --decode > image1decodificada.png
+
+#decodifoicamos image2
+cat /root/Descargas/mystery_img2.txt | base64 --decode > image2decodificada.png
+
+#codificamos imagen
+cat /root/Descargas/fcfm.png | base64 > fcfm_codificada.txt
+
+#codificamos .txt
+cat /root/Descargas/msg.txt | base64 > mensaje_codificado.txt
+
