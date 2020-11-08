@@ -1,0 +1,17 @@
+#!/bin/bash
+#practia 7
+
+#conocer nuestro segmento de ip
+hostname -I
+
+#hacemos nmap a ese segmento de ip
+nmap 192.168.100.174*
+
+#hacemos un nmap a una ip publica
+
+nmap --script http-headers scanme.nmap.org
+
+#Script de vuln
+
+nmap -Pn--script vuln 192.168.100.174
+
