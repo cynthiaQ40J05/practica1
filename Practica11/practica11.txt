@@ -1,0 +1,93 @@
+
+Configuraci¢n IP de Windows
+
+    array504.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array504.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2064
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.184.216.174
+
+
+    m.qualifytring.com
+    ----------------------------------------
+    Nombre de registro  . : m.qualifytring.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 170
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : qualify-t-ring.azurefd.net
+
+
+    Nombre de registro  . : qualify-t-ring.azurefd.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 170
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : q-t-9999.q-t-msedge.net
+
+
+    Nombre de registro  . : q-t-9999.q-t-msedge.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 170
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.53.254
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 313
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 313
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    prod.cdn.powerbi.com
+    ----------------------------------------
+    Nombre de registro  . : prod.cdn.powerbi.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 28
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : az822310.vo.msecnd.net
+
+
+    Nombre de registro  . : az822310.vo.msecnd.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 28
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 28
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    crlog-crcn.adobe.com
+    ----------------------------------------
+    Nombre de registro  . : crlog-crcn.adobe.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 177
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 192.147.130.166
+
+
