@@ -1,0 +1,558 @@
+recentdocs v.20200427
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2020-11-29 03:49:13Z
+  44 = Internet
+  1 = Descargas
+  49 = WhatsApp Image 2020-11-28 at 1.40.14 PM.jpeg
+  54 = WhatsApp Image 2020-11-28 at 1.35.28 PM (5).jpeg
+  78 = WhatsApp Image 2020-11-28 at 1.35.28 PM (4).jpeg
+  77 = WhatsApp Image 2020-11-28 at 1.35.28 PM (3).jpeg
+  75 = WhatsApp Image 2020-11-28 at 1.35.28 PM (1).jpeg
+  76 = WhatsApp Image 2020-11-28 at 1.35.28 PM.jpeg
+  73 = Tarea4.docx
+  3 = codigo.PNG
+  74 = 1
+  2 = Imágenes
+  15 = 1.jpg
+  130 = unnamed.png
+  67 = Herramientas Python.docx
+  6 = PSa2020g062 T29 Cynthia Sandoval.pdf
+  131 = coprobantedom.pdf
+  126 = cingresos.pdf
+  24 = acta (2).pdf
+  21 = Escáner_20201126 (2).pdf
+  14 = Escáner_20201126 (3).pdf
+  119 = Escáner_20201126.pdf
+  58 = comprobantedom.pdf
+  70 = comprobante.pdf
+  86 = Envio de meme Cynthia Sandoval_518750373 (1).eml
+  66 = meme2.png
+  62 = E10.py
+  93 = meme2.jfif
+  65 = Programacion.docx
+  146 = 126903086_989581678219662_8258885320261532390_n.jpg
+  22 = 126902283_490611445246971_1450358901631366763_n.jpg
+  46 = 126944175_849693155571577_3394964458706628998_n.jpg
+  117 = 126811339_709162346395086_2760659855648340225_n.jpg
+  129 = 126780924_1038606239938961_814905996339303311_n.jpg
+  38 = 126868525_208051500725531_7490600667066878980_n.jpg
+  40 = 126538772_1788010954695251_9192489153219920318_n.jpg
+  16 = Apuntes de clase-semana 6- (1).pdf
+  68 = apuntes semana 4.pdf
+  104 = cynthia sandoval apuntes (1).pdf
+  91 = ejercicio
+  63 = 2.png
+  121 = 1.png
+  100 = T23,T24,T25,T26,T27,T28 PSA2020G062.pdf
+  103 = 126309786_385239989386789_1192117081078304588_n.jpg
+  43 = 126347586_756251348567372_3168816364016613316_n.jpg
+  60 = 127243826_711126373151500_1062638105734851449_n.jpg
+  30 = 126996257_669093463778843_1375710451436237260_n.jpg
+  135 = 127185808_416668892846682_8710865863075340062_n.jpg
+  9 = Semana 12 cynthia.pdf
+  52 = labs.py
+  147 = Downloads
+  20 = info.json
+  120 = datos.jason
+  56 = prueba labs.py
+  69 = 126455439_683249782379478_1690491555689045795_n.jpg
+  33 = 126010573_421427888861553_3152811641357941176_n.jpg
+  83 = 126848618_1008504213002492_3875783875876040775_n.jpg
+  53 = 126073120_2579594119007712_5624741088597192635_n.jpg
+  114 = ms-gamingoverlay:///
+  12 = kglcheck/
+  50 = ejercicio.rar
+  42 = exifXtract.ps1
+  0 = 1
+  134 = imagenes.rar
+  127 = pyExif.py
+  64 = ejercicios.py
+  80 = tarea 1 requisito a examen global.pdf
+  51 = particion en linux usb.docx
+  41 = MicrosoftTeams-image (7).png
+  39 = MicrosoftTeams-image (6).png
+  115 = MicrosoftTeams-image (5).png
+  112 = MicrosoftTeams-image (4).png
+  11 = MicrosoftTeams-image (3).png
+  13 = MicrosoftTeams-image (2).png
+  142 = MicrosoftTeams-image (1).png
+  82 = MicrosoftTeams-image.png
+  10 = PAPA
+  136 = 126141234_415161072952818_331988784158355825_n.jpg
+  5 = 125515544_650141805655134_7000638900803984011_n.jpg
+  85 = 125334953_1351980711815031_5330895481815616895_n.jpg
+  149 = 2do PARCIAL T.Algebra.pdf
+  148 = E:\
+  105 = Sistema y seguridad
+  143 = ::{BB06C0E4-D293-4F75-8A90-CB05B6477EEE}
+  139 = laboratorios
+  144 = practicaSERVIDOR.py
+  140 = prueba.py
+  141 = practica8.py
+  123 = Nueva carpeta (2)
+  47 = La llorona 2.0 (1) (3)-Part Guitarra.pdf
+  48 = La llorona 2.0 (1) (3).mscz
+  57 = La llorona Definitiva-Part Guitarra Classica.pdf
+  7 = La llorona Definitiva.mscz
+  59 = La llorona digitacion con guitarra.mscz
+  25 = WhatsApp Image 2020-11-11 at 10.52.31 AM (3).jpeg
+  125 = WhatsApp Image 2020-11-11 at 10.52.31 AM (2).jpeg
+  32 = WhatsApp Image 2020-11-11 at 10.52.31 AM (1).jpeg
+  36 = WhatsApp Image 2020-11-11 at 10.52.31 AM.jpeg
+  113 = Tarea 3.rar
+  61 = La llorona 2.0 (1).mscz
+  122 = result.cvs
+  34 = ejercicio8.py
+  101 = Microsoft Office 2013
+  137 = escaneos.cvs
+  35 = ejercicio phyton.py
+  102 = Tarea 6 Cynthia.pdf
+  106 = Partituras
+  111 = La llorona 2.0.mscz
+  31 = Phyton ejercicios
+  23 = Nueva carpeta
+  118 = prueba jeremy.py
+  138 = SEMANA 10 CYNTHIA.pdf
+  45 = La_llorona.mscz
+  26 = video.mp4
+  79 = 1.jpeg
+  108 = 2.jpeg
+  128 = 3.jpeg
+  145 = WhatsApp Image 2020-11-03 at 8.17.19 AM.jpeg
+  133 = practica 6.py
+  55 = TAREAS
+  98 = PSa2020g062 T21 Cynthia Sandoval 1845131.docx
+  109 = ubuntu-20.04.1-live-server-amd64.iso
+  28 = CYNTHIA.docx
+  99 = WhatsApp Image 2020-10-27 at 3.27.06 PM.jpeg
+  97 = PSa2020g062 T20 Cynthia Sandoval 1845131.docx
+  72 = proyecto.txt
+  96 = T2.rar
+  81 = requirements.txt
+  19 = SUBCARPETA
+  95 = requests.txt
+  92 = E6-ComuncacionTCP
+  27 = images
+  94 = 1.txt
+  37 = T2.py
+  8 = Python38-32
+  116 = PIA.py
+  17 = PIA COMPLETO.py
+  4 = Scraping.py
+  89 = ParametorsArgParse.py
+  90 = ParametorsArgParse2.py
+  110 = extractDataFromImages.py
+  71 = scraping_beautifulSoup.py
+  124 = fcfm.png
+  88 = msg.txt
+  18 = mystery_img2.txt
+  84 = mystery_img1.txt
+  132 = PSa2020g062 T19 Cynthia Sandoval 1845131.docx
+  87 = ?TitleId=1791712750&ProcessId=0&WindowId=196982
+  29 = screen.png
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.449&fosver=17763&prevosver=17763&isu=0&tl=4&msa=&disphorzres=1366&dispver
+LastWrite Time 2020-08-21 18:43:44Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.7z
+LastWrite Time 2020-08-21 01:37:10Z
+MRUListEx = 0
+  0 = dolphin-master-5.0-12058-x64.7z
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.cvs
+LastWrite Time 2020-11-10 05:40:25Z
+MRUListEx = 1,0
+  1 = result.cvs
+  0 = escaneos.cvs
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.docx
+LastWrite Time 2020-11-28 07:40:32Z
+MRUListEx = 4,3,18,17,16,12,14,8,11,10,9,6,2,7,5,19,15,13,1,0
+  4 = Tarea4.docx
+  3 = Herramientas Python.docx
+  18 = Programacion.docx
+  17 = particion en linux usb.docx
+  16 = PSa2020g062 T21 Cynthia Sandoval 1845131.docx
+  12 = CYNTHIA.docx
+  14 = PSa2020g062 T20 Cynthia Sandoval 1845131.docx
+  8 = PSa2020g062 T19 Cynthia Sandoval 1845131.docx
+  11 = PSa2020g062 T18 Cynthia Sandoval 1845131.docx
+  10 = jeremy.docx
+  9 = PSa2020g062 T17 Cynthia Sandoval 1845131.docx
+  6 = PSa2020g062 T16 Cynthia Sandoval 1845131.docx
+  2 = TAREA 3 OVERTHEWIRE.docx
+  7 = TAREA-OVERTHEWIRE-CYNTHIA.SANDOVAL.docx
+  5 = PSa2020g062 T15 Cynthia Sandoval 1845131.docx
+  19 = PSa2020g062 T14 Cynthia Sandoval 1845131.docx
+  15 = PSa2020g062 T10 Cynthia Sandoval 1845131.docx
+  13 = PSa2020g062 T8 Cynthia Sandoval 1845131.docx
+  1 = PSa2020g062 T3 cynthia sandoval.docx
+  0 = PSa2020g062 T2 cynthia sandoval 1845131.docx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.eml
+LastWrite Time 2020-11-26 04:18:27Z
+MRUListEx = 0
+  0 = Envio de meme Cynthia Sandoval_518750373 (1).eml
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.FINAL
+LastWrite Time 2020-10-01 01:05:39Z
+MRUListEx = 0
+  0 = P.FINAL
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.html
+LastWrite Time 2020-09-20 23:47:47Z
+MRUListEx = 3,2,1,0
+  3 = cancion angel.html
+  2 = 5.html
+  1 = (5) Jeremy Garcia.html
+  0 = 2.html
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.img
+LastWrite Time 2020-08-21 01:37:10Z
+MRUListEx = 0
+  0 = efi.img
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.inf
+LastWrite Time 2020-08-21 01:37:10Z
+MRUListEx = 0
+  0 = autorun.inf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.iso
+LastWrite Time 2020-10-29 01:00:16Z
+MRUListEx = 3,2,1,0
+  3 = ubuntu-20.04.1-live-server-amd64.iso
+  2 = Windows_Server_2012_R2_x64.iso
+  1 = kali-linux-2019.4-amd64.iso
+  0 = kali-linux-2020.2-installer-amd64.iso
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jason
+LastWrite Time 2020-11-22 02:26:56Z
+MRUListEx = 0
+  0 = datos.jason
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jfif
+LastWrite Time 2020-11-25 06:54:09Z
+MRUListEx = 0
+  0 = meme2.jfif
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpeg
+LastWrite Time 2020-11-28 19:40:26Z
+MRUListEx = 9,7,6,13,8,15,5,4,3,0,19,1,2,18,17,11,14,12,16,10
+  9 = WhatsApp Image 2020-11-28 at 1.40.14 PM.jpeg
+  7 = WhatsApp Image 2020-11-28 at 1.35.28 PM (5).jpeg
+  6 = WhatsApp Image 2020-11-28 at 1.35.28 PM (4).jpeg
+  13 = WhatsApp Image 2020-11-28 at 1.35.28 PM (3).jpeg
+  8 = WhatsApp Image 2020-11-28 at 1.35.28 PM (1).jpeg
+  15 = WhatsApp Image 2020-11-28 at 1.35.28 PM.jpeg
+  5 = WhatsApp Image 2020-11-11 at 10.52.31 AM (3).jpeg
+  4 = WhatsApp Image 2020-11-11 at 10.52.31 AM (2).jpeg
+  3 = WhatsApp Image 2020-11-11 at 10.52.31 AM (1).jpeg
+  0 = WhatsApp Image 2020-11-11 at 10.52.31 AM.jpeg
+  19 = 1.jpeg
+  1 = 2.jpeg
+  2 = 3.jpeg
+  18 = WhatsApp Image 2020-11-03 at 8.17.19 AM.jpeg
+  17 = WhatsApp Image 2020-10-27 at 3.27.06 PM.jpeg
+  11 = WhatsApp Image 2020-10-17 at 1.36.54 PM.jpeg
+  14 = WhatsApp Image 2020-10-17 at 1.36.54 PM (2).jpeg
+  12 = WhatsApp Image 2020-10-17 at 1.36.54 PM (3).jpeg
+  16 = WhatsApp Image 2020-10-17 at 1.36.55 PM.jpeg
+  10 = WhatsApp Image 2020-10-17 at 12.35.58 PM.jpeg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg
+LastWrite Time 2020-11-27 10:00:00Z
+MRUListEx = 6,4,0,19,18,17,10,16,15,8,13,12,14,3,1,5,7,11,9,2
+  6 = 1.jpg
+  4 = 126903086_989581678219662_8258885320261532390_n.jpg
+  0 = 126902283_490611445246971_1450358901631366763_n.jpg
+  19 = 126944175_849693155571577_3394964458706628998_n.jpg
+  18 = 126811339_709162346395086_2760659855648340225_n.jpg
+  17 = 126780924_1038606239938961_814905996339303311_n.jpg
+  10 = 126868525_208051500725531_7490600667066878980_n.jpg
+  16 = 126538772_1788010954695251_9192489153219920318_n.jpg
+  15 = 126309786_385239989386789_1192117081078304588_n.jpg
+  8 = 126347586_756251348567372_3168816364016613316_n.jpg
+  13 = 127243826_711126373151500_1062638105734851449_n.jpg
+  12 = 126996257_669093463778843_1375710451436237260_n.jpg
+  14 = 127185808_416668892846682_8710865863075340062_n.jpg
+  3 = 126455439_683249782379478_1690491555689045795_n.jpg
+  1 = 126010573_421427888861553_3152811641357941176_n.jpg
+  5 = 126848618_1008504213002492_3875783875876040775_n.jpg
+  7 = 126073120_2579594119007712_5624741088597192635_n.jpg
+  11 = 126141234_415161072952818_331988784158355825_n.jpg
+  9 = 125515544_650141805655134_7000638900803984011_n.jpg
+  2 = 125334953_1351980711815031_5330895481815616895_n.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.json
+LastWrite Time 2020-11-22 03:10:40Z
+MRUListEx = 0
+  0 = info.json
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.m4a
+LastWrite Time 2020-09-18 03:48:54Z
+MRUListEx = 2,1,0
+  2 = 2.m4a
+  1 = 1.m4a
+  0 = Hola_ Adiós! Burbuja - EL ORIGEN DEL MEME HD..m4a
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mp4
+LastWrite Time 2020-11-07 03:02:37Z
+MRUListEx = 10,9,8,7,6,5,4,3,2,1,0
+  10 = video.mp4
+  9 = video (9).mp4
+  8 = video (7).mp4
+  7 = video (6).mp4
+  6 = video (4).mp4
+  5 = Concurso de Guitarra FAMUS 2020 - Categoría Técnico Medio - YouTube - Google Chrome 2020-09-20 18-31-56_Trim.mp4
+  4 = (41) Concurso de Guitarra FAMUS 2020 - Categoría Técnico Medio - YouTube - Google Chrome 2020-09-20 18-31-56_Trim.mp4
+  3 = (41) Concurso de Guitarra FAMUS 2020 - Categoría Técnico Medio - YouTube - Google Chrome 2020-09-20 18-31-56.mp4
+  2 = (41) Concurso de Guitarra FAMUS 2020 - Categoría Técnico Medio - YouTube - Google Chrome 2020-09-20 18-26-43.mp4
+  1 = video (2).mp4
+  0 = video-1591905956.mp4
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mscz
+LastWrite Time 2020-11-11 21:49:22Z
+MRUListEx = 5,4,3,2,0,1
+  5 = La llorona 2.0 (1) (3).mscz
+  4 = La llorona Definitiva.mscz
+  3 = La llorona digitacion con guitarra.mscz
+  2 = La llorona 2.0 (1).mscz
+  0 = La llorona 2.0.mscz
+  1 = La_llorona.mscz
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.no4
+LastWrite Time 2020-10-18 00:48:58Z
+MRUListEx = 2,1,0
+  2 = practica4.no4
+  1 = practica4.sh.no4
+  0 = practica.no4
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.one
+LastWrite Time 2020-09-29 03:59:23Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pdf
+LastWrite Time 2020-11-26 18:59:18Z
+MRUListEx = 14,12,13,5,10,11,9,8,7,6,4,2,3,1,0,19,18,16,17,15
+  14 = PSa2020g062 T29 Cynthia Sandoval.pdf
+  12 = coprobantedom.pdf
+  13 = cingresos.pdf
+  5 = acta (2).pdf
+  10 = Escáner_20201126 (2).pdf
+  11 = Escáner_20201126 (3).pdf
+  9 = Escáner_20201126.pdf
+  8 = comprobantedom.pdf
+  7 = comprobante.pdf
+  6 = Apuntes de clase-semana 6- (1).pdf
+  4 = apuntes semana 4.pdf
+  2 = cynthia sandoval apuntes (1).pdf
+  3 = T23,T24,T25,T26,T27,T28 PSA2020G062.pdf
+  1 = Semana 12 cynthia.pdf
+  0 = tarea 1 requisito a examen global.pdf
+  19 = 2do PARCIAL T.Algebra.pdf
+  18 = La llorona 2.0 (1) (3)-Part Guitarra.pdf
+  16 = La llorona Definitiva-Part Guitarra Classica.pdf
+  17 = Tarea 6 Cynthia.pdf
+  15 = SEMANA 10 CYNTHIA.pdf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.png
+LastWrite Time 2020-11-28 05:34:21Z
+MRUListEx = 15,14,13,6,0,12,11,9,4,19,10,7,1,5,18,2,3,8,17,16
+  15 = codigo.PNG
+  14 = unnamed.png
+  13 = meme2.png
+  6 = 2.png
+  0 = 1.png
+  12 = MicrosoftTeams-image (7).png
+  11 = MicrosoftTeams-image (6).png
+  9 = MicrosoftTeams-image (5).png
+  4 = MicrosoftTeams-image (4).png
+  19 = MicrosoftTeams-image (3).png
+  10 = MicrosoftTeams-image (2).png
+  7 = MicrosoftTeams-image (1).png
+  1 = MicrosoftTeams-image.png
+  5 = fcfm.png
+  18 = screen.png
+  2 = screen-trabajo.png
+  3 = jeremy.png
+  8 = 223.png
+  17 = frame.png
+  16 = matrices.PNG
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptx
+LastWrite Time 2020-09-21 20:24:54Z
+MRUListEx = 6,5,4,3,2,1,0
+  6 = CARTEL CYNTHIA.pptx
+  5 = CARTEL ANGEL.pptx
+  4 = Orientacion-prescentacion.pptx
+  3 = matematicas problemas razonados(multiplicacion).pptx
+  2 = español-sinonimos y antonimos.pptx
+  1 = YOLI.pptx
+  0 = diagramas de red.pptx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ps1
+LastWrite Time 2020-11-20 02:54:21Z
+MRUListEx = 8,7,0,6,5,2,4,3,1
+  8 = exifXtract.ps1
+  7 = Practica 3 powershell.ps1
+  0 = E3-FunMod.ps1
+  6 = TAREA1.ps1
+  5 = team.ps1
+  2 = Ejercicio4.ps1
+  4 = trabajosss.ps1
+  3 = prueba2.ps1
+  1 = prueba.ps1
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.psd
+LastWrite Time 2020-08-21 01:37:10Z
+MRUListEx = 1,0
+  1 = 1.psd
+  0 = Sin título-2.psd
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.psm1
+LastWrite Time 2020-10-01 00:44:07Z
+MRUListEx = 14,13,12,11,10,9,8,7,6,5,4,3,2,1,0
+  14 = Teams.psm1
+  13 = tarea1.psm1
+  12 = carpeta5.psm1
+  11 = carpeta4.psm1
+  10 = carpeta3.psm1
+  9 = carpeta2.psm1
+  8 = carpeta1.psm1
+  7 = archivo5.psm1
+  6 = archivo4.psm1
+  5 = archivo3.psm1
+  4 = archivo2.psm1
+  3 = archivo.psm1
+  2 = modu.psm1
+  1 = mod.psm1
+  0 = modulos.psm1
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.py
+LastWrite Time 2020-11-25 17:43:02Z
+MRUListEx = 16,17,15,14,12,13,5,11,10,9,0,8,7,3,6,1,4,18,19,2
+  16 = E10.py
+  17 = labs.py
+  15 = prueba labs.py
+  14 = pyExif.py
+  12 = ejercicios.py
+  13 = practicaSERVIDOR.py
+  5 = prueba.py
+  11 = practica8.py
+  10 = ejercicio8.py
+  9 = ejercicio phyton.py
+  0 = prueba jeremy.py
+  8 = practica 6.py
+  7 = T2.py
+  3 = PIA.py
+  6 = PIA COMPLETO.py
+  1 = Scraping.py
+  4 = ParametorsArgParse.py
+  18 = ParametorsArgParse2.py
+  19 = extractDataFromImages.py
+  2 = scraping_beautifulSoup.py
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pyc
+LastWrite Time 2020-08-21 01:37:10Z
+MRUListEx = 0
+  0 = scriptcyn.cpython-38.pyc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rar
+LastWrite Time 2020-11-20 02:56:25Z
+MRUListEx = 9,6,8,7,5,4,3,2,1,0
+  9 = ejercicio.rar
+  6 = imagenes.rar
+  8 = Tarea 3.rar
+  7 = T2.rar
+  5 = tarea1.rar
+  4 = Nuevo Archivo WinRAR.rar
+  3 = Teams.rar
+  2 = Ejercicio-3.rar
+  1 = EVENTOS PIA (1).rar
+  0 = Solucion.rar
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.sln
+LastWrite Time 2020-08-21 01:37:10Z
+MRUListEx = 0
+  0 = PRUEBA.sln
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt
+LastWrite Time 2020-10-26 18:01:46Z
+MRUListEx = 5,17,4,2,1,19,18,12,16,13,14,15,0,3,11,10,9,8,7,6
+  5 = proyecto.txt
+  17 = requirements.txt
+  4 = requests.txt
+  2 = 1.txt
+  1 = msg.txt
+  19 = mystery_img2.txt
+  18 = mystery_img1.txt
+  12 = CONTRAS DE OVER...txt
+  16 = Ejercici4.txt
+  13 = Funciones Tarea 1.txt
+  14 = tarea1.txt
+  15 = johan.txt
+  0 = README.txt
+  3 = evento_Cancun.txt
+  11 = jeremy.txt
+  10 = m&g.txt
+  9 = evento_Xalapa.txt
+  8 = evento_Puebla.txt
+  7 = evento_Monterrey.txt
+  6 = evento_Mazatlan.txt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.wav
+LastWrite Time 2020-09-18 03:50:11Z
+MRUListEx = 1,0
+  1 = 22.wav
+  0 = 12.wav
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xlsx
+LastWrite Time 2020-09-29 12:25:01Z
+MRUListEx = 2,1,0
+  2 = ISO27k_ISMS_and_controls_status_with_SoA_and_gaps_Spanish.xlsx
+  1 = Mi excel.xlsx
+  0 = Pia.xlsx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.zip
+LastWrite Time 2020-08-21 01:37:10Z
+MRUListEx = 1,0
+  1 = video-1591905956.zip
+  0 = Tareas phyton.zip
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder
+LastWrite Time 2020-11-29 03:49:12Z
+MRUListEx = 1,0,4,16,3,7,17,5,10,29,14,13,11,2,25,12,9,6,8,19,28,27,26,24,23,22,21,15,20
+  1 = Internet
+  0 = Descargas
+  4 = Imágenes
+  16 = ejercicio
+  3 = Sistema y seguridad
+  7 = laboratorios
+  17 = Microsoft Office 2013
+  5 = Partituras
+  10 = Phyton ejercicios
+  29 = TAREAS
+  14 = T2
+  13 = SUBCARPETA
+  11 = E6-ComuncacionTCP
+  2 = images
+  25 = Python38-32
+  12 = Nueva carpeta
+  9 = Álbum de la cámara
+  6 = Todas las tareas
+  8 = tarea1
+  19 = carpeta5
+  28 = carpeta4
+  27 = carpeta3
+  26 = carpeta2
+  24 = carpetamod
+  23 = modu
+  22 = mod
+  21 = modulos
+  15 = TAREAS PROGRAMA DE SEGRIDAD
+  20 = Capturas
